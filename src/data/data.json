@@ -1,0 +1,159 @@
+{
+  "Header": {
+    "title": "AlGeneral Trade",
+    "paragraph": "Connecting Markets. Building Partnerships. We help businesses around the world trade smarter, faster, and with complete confidence from sourcing products to delivering them safely across borders."
+  },
+  "About": {
+    "paragraph": "At AlGeneral Trade, we are passionate about connecting businesses and opportunities around the world. Based in Egypt and operating internationally, our company specializes in importing and exporting a wide variety of products from industrial materials and agricultural goods to consumer products and more. We combine market knowledge, strong partnerships, and efficient logistics to deliver real value to our clients. Our mission is to make global trade simple, reliable, and beneficial for everyone we work with.",
+    "Why": [
+      "Global reach, local expertise",
+      "Fast and reliable logistics",
+      "Trusted worldwide partners",
+      "Quality products, every time"
+    ],
+    "Why2": [
+      "Transparent and flexible service",
+      "Driven by trust and results",
+      "Strong market insight",
+      "Always growing with our clients"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Titanium Dioxide — Premium Quality Mineral",
+      "smallImage": "img/portfolio/1.png"
+    },
+    {
+      "title": "Ferric Oxide/Iron Oxide — Reliable Source for Industrial Applications",
+      "smallImage": "img/portfolio/2.png"
+    },
+    {
+      "title": "Zirconia — Essential Material for Advanced Industries",
+      "smallImage": "img/portfolio/3.png"
+    },
+    {
+      "title": "Silicon Dioxide — Essential Mineral for Multiple Industries",
+      "smallImage": "img/portfolio/4.png"
+    },
+    {
+      "title": "Aluminum Oxide — Essential Material for Advanced Manufacturing",
+      "smallImage": "img/portfolio/5.png"
+    },
+    {
+      "title": "Magnesium Oxide — Essential Mineral for Multiple Industries",
+      "smallImage": "img/portfolio/6.png"
+    },
+    {
+      "title": "Manganese Oxide — Crucial Material for Glass and Battery Production",
+      "smallImage": "img/portfolio/7.png"
+    },
+    {
+      "title": "Chromium Oxide — Essential Pigment for Industrial Applications",
+      "smallImage": "img/portfolio/8.png"
+    },
+    {
+      "title": "Vanadium Pentoxide — Key Catalyst for Advanced Industrial Processes",
+      "smallImage": "img/portfolio/9.png"
+    },
+    {
+      "title": "Phosphorus Pentoxide — Essential Compound for Chemical and Fertilizer Industries",
+      "smallImage": "img/portfolio/10.png"
+    },
+    {
+      "title": "Calcium Oxide — Key Material for Construction, Steel, and Chemical Industries",
+      "smallImage": "img/portfolio/11.png"
+    },
+    {
+      "title": "Niobium Pentoxide — High-Performance Material for Electronics and Optical Applications",
+      "smallImage": "img/portfolio/12.png"
+    },
+    {
+      "title": "Phosphate Rock — Primary Source of Phosphorus for Fertilizer Production",
+      "smallImage": "img/portfolio/13.png"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-exchange",
+      "name": "Global Import & Export",
+      "text": "AlGeneral Trade operates worldwide, managing end-to-end import and export processes with precision and reliability. We connect suppliers and buyers across continents, ensuring every transaction is smooth and successful."
+    },
+    {
+      "icon": "fa fa-search",
+      "name": "Product Sourcing",
+      "text": "Our team helps clients find the right products at the best quality and price. We partner only with verified suppliers, guaranteeing authenticity, consistency, and value in every deal."
+    },
+    {
+      "icon": "fa fa-ship",
+      "name": "Logistics & Shipping",
+      "text": "We handle all stages of international shipping from packaging and customs clearance to delivery making sure your goods arrive safely, on time, and with full tracking transparency."
+    },
+    {
+      "icon": "fa fa-file-text",
+      "name": "Customs & Documentation",
+      "text": "Global trade can be complex, but we simplify it. Our experts take care of all customs requirements, export documents, and legal compliance to avoid any delays or extra costs."
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": "Market Insights",
+      "text": "Through continuous research and market monitoring, we provide valuable insights to help you make informed trade decisions, discover new opportunities, and stay ahead of competitors."
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Partnership Solutions",
+      "text": "We believe in strong relationships, not one-time deals. Our goal is to build long-term partnerships based on trust, communication, and shared success."
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/tarek-salah.jpg",
+      "name": "Tarek Salah",
+      "job": "HR & Administration"
+    },
+    {
+      "img": "img/team/ahmed-elshahawy.jpeg",
+      "name": "Ahmed Elshahawy",
+      "job": "General Manager / CEO"
+    },
+    {
+      "img": "img/team/mohammed-youssef.jpg",
+      "name": "Mohammed Youssef",
+      "job": "Public relations manager"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Abu Dhabi: Al Dana Mall, Mussafah, UAE\nCairo: Safwa Al Andalus A8, Egypt\nEgypt\nMansoura: El Geish ST, Egypt",
+    "phone": "+20 124 240034",
+    "email": "alshahawy@algeneraltrade.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-globe",
+      "title": "Global Reach",
+      "text": "We connect markets worldwide, building trusted trade channels across continents."
+    },
+    {
+      "icon": "fa fa-users",
+      "title": "Reliable Partnerships",
+      "text": "We believe in long-term cooperation built on transparency, trust, and mutual growth."
+    },
+    {
+      "icon": "fa fa-cubes",
+      "title": "Diverse Product Range",
+      "text": "From raw materials to finished goods, we handle multiple industries with flexibility and expertise."
+    },
+    {
+      "icon": "fa fa-truck",
+      "title": "Fast & Secure Logistics",
+      "text": "Our logistics network ensures every shipment arrives on time, safely, and with full tracking support."
+    }
+  ]
+}
